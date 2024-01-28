@@ -31,4 +31,6 @@
 
 <br clear="both">
 
-<p align="center" style="background-color:rgb(48, 54, 61);border-radius: 7.5px;"><img align="center" src="https://raw.githubusercontent.com/phamhung-dev/phamhung-dev/output/snake.svg" alt="Snake animation" /></p>
+<div style="background-color: rgb(48, 54, 61); border-radius: 7.5px;">
+    <img align="center" src="https://raw.githubusercontent.com/phamhung-dev/phamhung-dev/output/snake.svg" alt="Snake animation" />
+</div>
