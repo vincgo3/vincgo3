@@ -31,4 +31,4 @@
 
 <br clear="both">
 
-<p align="center"><img style="background-color:rgb(48, 54, 61);border-radius: 7.5px;" align="center" src="https://raw.githubusercontent.com/phamhung-dev/phamhung-dev/output/snake.svg" alt="Snake animation" /></p>
+<p align="center" style="background-color:rgb(48, 54, 61);border-radius: 7.5px;"><img align="center" src="https://raw.githubusercontent.com/phamhung-dev/phamhung-dev/output/snake.svg" alt="Snake animation" /></p>
