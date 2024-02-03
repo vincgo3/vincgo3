@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **phamhunggl721@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/phamhung2503/](https://www.linkedin.com/in/phamhung2503/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/phamhung-dev](https://www.linkedin.com/in/phamhung-dev)
 
 - ⚡ Fun fact **I think I am funny**
 
