@@ -1,5 +1,5 @@
 <p align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=28&pause=1000&color=1A1A1A&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Hung" alt="Typing SVG" /></p>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phamhung-dev&label=Profile%20views&color=0e75b6&style=flat" alt="phamhung-dev" /> </p>
 
