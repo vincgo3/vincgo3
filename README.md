@@ -109,9 +109,6 @@ func GetBio() Bio {
         <table>
             <tr>
                 <td>
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincgo3&theme=radical" alt="vincgo3" />
-                </td>
-                <td>
                     <img src="https://github-readme-stats.vercel.app/api?username=vincgo3&show_icons=true&theme=radical" alt="vincgo3" />
                 </td>
                 <td>
