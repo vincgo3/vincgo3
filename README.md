@@ -1,13 +1,13 @@
 <h2 align="center">
     <a href="https://github.com/vincgo3">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1&pause=1&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Hung!" alt="vincgo3" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=1&pause=1&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Hung!" alt="vincgo3" />
     </a>
 </h2>
 
 <h2 align="center">
     <div align="center">
         <a href="https://github.com/vincgo3">
-            <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=%24+git+commit+-m+%22%F0%9F%9A%80+Welcome!%22;%5Bmain%5D+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBSoftware+Engineer;%3E_+Dev+mode%3A+ON%F0%9F%94%A5" alt="vincgo3" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=%24+git+commit+-m+%22%F0%9F%9A%80+Welcome!%22;%5Bmain%5D+%F0%9F%92%AD+Software+engineer;%3E_+Dev+mode%3A+ON+%F0%9F%94%A5" alt="vincgo3" />
         </a>
     </div>
     <div align="center">
@@ -44,12 +44,12 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"🧑 Who am I?":  "A passionate software engineer from Vietnam ❤️",
+		"🧑 Who am I?":  "A passionate software engineer from Vietnam 🇻🇳",
 		"🚀 What I do?": "Building scalable applications, solving real-world problems, shipping features fast 🔥",
 		"🌱 Learning":   "Kubernetes, advanced Docker, Go, Rust, system design, and keeping up with bleeding-edge tech 💥",
 		"🎯 Goals":      "Clean code. Scalable systems. Fast shipping. Constant improvement ⭐",
 		"</> Tech stack": 
-                       `- 🧑‍💻 Programming languages: Go, Rust, Python, Ruby, PHP, Java, JavaScript, C#, C/C++
+                       `- 👨‍💻 Programming languages: Go, Rust, Python, Ruby, PHP, Java, JavaScript, C#, C/C++
                         - 🛢️ Databases: PostgreSQL, MySQL, MSSQL, MongoDB, Milvus, Neo4j
                         - 📩 Message queues: RabbitMQ, Kafka, NSQ, NATS
                         - ⚡ Caching systems: Redis, Dragonfly, Memcached
@@ -119,4 +119,4 @@ func GetBio() Bio {
     </div>
 </h2>
 
-<p align="center">Made with ❤️ &nbsp;|&nbsp; Powered by <a href="https://github.com/vincgo3">me</a></p>
+<p align="center">Made with 💓 &nbsp;|&nbsp; Powered by <a href="https://github.com/vincgo3">me</a> ✨</p>
