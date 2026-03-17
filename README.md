@@ -46,27 +46,8 @@ func GetBio() Bio {
 	return Bio{
 		"🧑 Who am I?":  "A passionate software engineer from Vietnam 🇻🇳",
 		"🚀 What I do?": "Building scalable applications, solving real-world problems, shipping features fast 🔥",
-		"🌱 Learning":   "Kubernetes, advanced Docker, Go, Rust, system design, and keeping up with bleeding-edge tech 💥",
+		"🌱 Learning":   "Kubernetes, advanced Docker, Go, Rust, Python, system design, and keeping up with bleeding-edge tech 💥",
 		"🎯 Goals":      "Clean code. Scalable systems. Fast shipping. Constant improvement ⭐",
-		"</> Tech stack": 
-                       `- 👨‍💻 Programming languages: Go, Rust, Python, Ruby, PHP, Java, JavaScript, C#, C/C++
-                        - 🛢️ Databases: PostgreSQL, MySQL, MSSQL, MongoDB, Milvus, Neo4j
-                        - 📩 Message queues: RabbitMQ, Kafka, NSQ, NATS
-                        - ⚡ Caching systems: Redis, Dragonfly, Memcached
-                        - 🗂️ Object storage: MinIO
-                        - 📈 Monitoring & Observability: Prometheus, Grafana, ELK stack, Jaeger, OpenTelemetry, Fluentd, Loki
-                        - 🔌 APIs: gRPC, REST APIs, GraphQL, WebSocket, Event Sourcing
-                        - 🧠 System designs: Monolith, Microservices, Clean architecture, DDD, MVC, MVVM, MVP, 3-Tier
-                        - 💻 Virtualization & VMs: Vagrant, VirtualBox, VMware, QEMU, KVM
-                        - 🛠️ DevOps: Docker, Docker Swarm, Kubernetes, CI/CD, Terraform, Ansible, Rancher, ArgoCD
-                        - ⚙️ Version control: Git, GitHub, GitLab, Bitbucket
-                        - 📅 Project management: Jira, Confluence, Trello
-                        - ✏️ Code editors & IDEs: Visual Studio Code, IntelliJ IDEA, Visual Studio, NVim, NetBeans, Eclipse
-                        - 🧪 Testing tools: Postman, Insomnia, Swagger, REST Client
-                        - 🖥️ Operating systems: Linux, Windows
-                        - 🌐 Networking: Nginx, HAProxy, Traefik, Consul, SSH, OpenVPN, SCP, WireShark
-                        - 🔐 Security tools: KeePass, VeraCrypt, HashiCorp Vault
-                        - 🧰 Other tools: Sysinternals Suite`,
 		"🤔 Hobbies":    "Gaming 🎮, cat parenting 🐱, vibing to music 🎧, exploring food culture 🍜",
 		"📫 Contact":    "Find me on GitHub 👉 https://github.com/vincgo3",
 		"🤘 Motto":      "Conquer every challenge — no matter how hard. Stay hungry. Stay relentless 🏆",
